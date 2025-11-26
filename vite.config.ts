@@ -5,7 +5,7 @@ export default defineConfig({
   base: './',
   build: {
     minify: 'esbuild',
-    outDir: 'dist'
+    outDir: 'dist/client'
   },
   server: {
     port: 5173,
