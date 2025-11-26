@@ -1,0 +1,1 @@
+export type PixelArray = Uint8Array;
